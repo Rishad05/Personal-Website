@@ -126,3 +126,41 @@ footer img{
     width: 25px;
     padding: 5px;
 }
+.Test-section{
+    background-color: teal;
+}
+.Test-section h2{
+    color: rgb(219, 199, 168);
+    text-align: center;
+    font-size: 50px;
+    padding-top: 3%;
+    padding-bottom:3% ;
+}
+.center{
+    width: 50%;
+    padding: 1%;
+    margin: 1%;
+    margin: auto;
+    box-shadow: 10px 10px 40px rgb(224, 155, 155);
+    height: 65%;
+    border-radius: 5px;
+    background-color: grey;
+    text-align: center;
+    
+    
+}
+.center img{
+    width: 30%;
+    padding: 5px;
+    
+}
+.center p{
+    margin-top: 0;
+    font-weight: 700;
+    color: whitesmoke;
+}
+.center h3{
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: 700;
+}
